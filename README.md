@@ -1,7 +1,7 @@
 - 👋 Olá! Eu sou o Nicolas Henry
 
 - 👀 Hoje Trabalho como Web Developer
-- 💻 Estudando Typescipt
+- 💻 Estudando Typescript
 - 🕊 Nobody Explains God
 
 <div>
