@@ -1,8 +1,8 @@
-- 👋 Olá! Eu sou o Nicolas Henry
+- 👋 Olá! Eu sou o Nicolas Quilim
 
-- 👀 Hoje Trabalho como Web Developer
+- 👀 Front End 
 - 💻 Estudando Typescript
-- 🕊 Nobody Explains God
+- 🕊 Te Vejo na IURD ou nas Nuvens☁️
 
 <div>
   <a href="https://github.com/nickyrize">
