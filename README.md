@@ -1,8 +1,7 @@
 - 👋 Olá! Eu sou o Nicolas Quilim
 
 - 👀 Front End 
-- 💻 Estudando Typescript
-- 🕊 Te Vejo na IURD ou nas Nuvens☁️
+- 💻 Estudando Flutter
 
 <div>
   <a href="https://github.com/nickyrize">
