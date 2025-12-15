@@ -1,7 +1,7 @@
 - 👋 Olá! Eu sou o Nicolas Quilim
 
-- 👀 Front End 
-- 💻 Estudando Flutter
+- Mobile Developer
+- Bug Bounty for meta
 
 <div>
   <a href="https://github.com/nickyrize">
